@@ -17,3 +17,7 @@ file provides four scripts:
   performance.
 - `test`: Launches the test runner in the interactive watch mode.
 - `eject`: Remove create-react-app build dependency from your project.
+
+A quick demo of how the app works :
+
+https://bitmesra-my.sharepoint.com/:v:/g/personal/btech10044_19_bitmesra_ac_in/EQLU9_7qCmFAmcDTaxWwsAoBiadT9yUUKcAf86hrrGkwjA?e=fi7ABS
